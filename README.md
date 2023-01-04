@@ -1,7 +1,7 @@
 # neogcamp-cli-project-1
 A cli based project to cover basics of programming.
 
-#Tech Stack
+# Tech Stack
 Javascript
 
 # Hosting URL: 
